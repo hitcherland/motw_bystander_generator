@@ -1,0 +1,444 @@
+large,eyes
+small,eyes
+narrow,eyes
+sharp,eyes
+squinty,eyes
+round,eyes
+wide-set,eyes
+close-set,eyes
+deep-set,eyes
+sunken,eyes
+bulging,eyes
+protruding,eyes
+wide,eyes
+hooded,eyes
+heavy-lidded,eyes
+bedroom,eyes
+bright,eyes
+sparkling,eyes
+glittering,eyes
+flecked,eyes
+dull,eyes
+bleary,eyes
+rheumy,eyes
+cloudy,eyes
+red-rimmed,eyes
+beady,eyes
+birdlike,eyes
+cat-like,eyes
+jewel-like,eyes
+steely,eyes
+hard,eyes
+fringed with long lashes,eyes
+with sweeping eyelashes,eyes
+with thick eyelashes,eyes
+chestnut,eye colour
+chocolate brown,eye colour
+cocoa brown,eye colour
+coffee brown,eye colour
+mocha,eye colour
+mahogany,eye colour
+sepia,eye colour
+sienna brown,eye colour
+mink brown,eye colour
+copper,eye colour
+amber,eye colour
+cognac,eye colour
+whiskey,eye colour
+brandy,eye colour
+honey,eye colour
+tawny,eye colour
+topaz,eye colour
+hazel,eye colour
+obsidian,eye colour
+onyx,eye colour
+coal,eye colour
+raven,eye colour
+midnight,eye colour
+sky blue,eye colour
+sunny blue,eye colour
+cornflower blue,eye colour
+steel blue,eye colour
+ice blue,eye colour
+Arctic blue,eye colour
+glacial blue,eye colour
+crystal blue,eye colour
+cerulean,eye colour
+electric blue,eye colour
+azure,eye colour
+lake blue,eye colour
+aquamarine,eye colour
+turquoise,eye colour
+denim blue,eye colour
+slate blue / slate gray,eye colour
+storm blue / storm gray,eye colour
+silver / silver gray,eye colour
+chrome,eye colour
+platinum,eye colour
+pewter,eye colour
+smoky gray,eye colour
+ash gray,eye colour
+concrete gray,eye colour
+dove gray,eye colour
+shark gray,eye colour
+fog gray,eye colour
+gunmetal gray,eye colour
+olive,eye colour
+emerald,eye colour
+leaf green,eye colour
+moss green,eye colour
+arched,eyebrows
+straight,eyebrows
+plucked,eyebrows
+sparse,eyebrows
+trim,eyebrows
+dark,eyebrows
+faint,eyebrows
+thin,eyebrows
+thick,eyebrows
+unruly,eyebrows
+bushy,eyebrows
+heavy,eyebrows
+amber,skin colour
+bronze,skin colour
+cinnamon,skin colour
+copper,skin colour
+dark brown,skin colour
+deep brown,skin colour
+ebony,skin colour
+honey,skin colour
+golden,skin colour
+pale,skin colour
+pallid,skin colour
+pasty,skin colour
+fair,skin colour
+light,skin colour
+cream / creamy,skin colour
+alabaster,skin colour
+ivory,skin colour
+bisque,skin colour
+milk,skin colour
+porcelain,skin colour
+chalky,skin colour
+sallow,skin colour
+olive,skin colour
+peach,skin colour
+rose / rosy,skin colour
+ruddy,skin colour
+florid,skin colour
+russet,skin colour
+tawny,skin colour
+fawn,skin colour
+lined,skin
+wrinkled,skin
+seamed,skin
+leathery,skin
+sagging,skin
+drooping,skin
+loose,skin
+clear,skin
+smooth,skin
+silken,skin
+satiny,skin
+dry,skin
+flaky,skin
+scaly,skin
+delicate,skin
+thin,skin
+translucent,skin
+luminescent,skin
+baby-soft,skin
+flawless,skin
+poreless,skin
+with large pores,skin
+glowing,skin
+dewy,skin
+dull,skin
+velvety,skin
+fuzzy,skin
+rough,skin
+uneven,skin
+mottled,skin
+dimpled,skin
+doughy,skin
+firm,skin
+freckled,skin
+pimply,skin
+pockmarked,skin
+blemished,skin
+pitted,skin
+scarred,skin
+bruised,skin
+veined,skin
+scratched,skin
+sunburned,skin
+weather-beaten,skin
+raw,skin
+tattooed,skin
+square,face structure
+round,face structure
+oblong,face structure
+oval,face structure
+elongated,face structure
+narrow,face structure
+heart-shaped,face structure
+catlike,face structure
+wolfish,face structure
+high forehead,face structure
+broad forehead,face structure
+prominent brow ridge,face structure
+protruding brow bone,face structure
+sharp cheekbones,face structure
+high cheekbones,face structure
+angular cheekbones,face structure
+hollow cheeks,face structure
+square jaw,face structure
+chiseled,face structure
+sculpted,face structure
+craggy,face structure
+soft,face structure
+jowly,face structure
+jutting chin,face structure
+pointed chin,face structure
+weak chin,face structure
+receding chin,face structure
+double chin,face structure
+cleft chin,face structure
+dimple in chin,face structure
+visible Adam's apple,face structure
+snub,nose
+dainty,nose
+button,nose
+turned-up,nose
+long,nose
+broad,nose
+thin,nose
+straight,nose
+pointed,nose
+crooked,nose
+aquiline,nose
+Roman,nose
+bulbous,nose
+flared,nose
+hawk,nose
+strong,nose
+Mouth/Lips,nose
+thin,nose
+narrow,nose
+full,nose
+lush,nose
+Cupid's bow,nose
+rosebud,nose
+dry,nose
+cracked,nose
+chapped,nose
+moist,nose
+glossy,nose
+straight teeth,nose
+gap between teeth,nose
+gleaming white teeth,nose
+overbite,nose
+underbite,nose
+clean-shaven,facial hair
+smooth-shaven,facial hair
+beard,facial hair
+neckbeard,facial hair
+goatee,facial hair
+moustache,facial hair
+sideburns,facial hair
+mutton-chop sideburns,facial hair
+stubble,facial hair
+a few days' growth of beard,facial hair
+five o' clock shadow,facial hair
+long,hair
+short,hair
+shoulder-length,hair
+loose,hair
+limp,hair
+dull,hair
+shiny,hair
+glossy,hair
+sleek,hair
+smooth,hair
+luminous,hair
+lustrous,hair
+spiky,hair
+stringy,hair
+shaggy,hair
+tangled,hair
+messy,hair
+tousled,hair
+windblown,hair
+unkempt,hair
+bedhead,hair
+straggly,hair
+neatly combed,hair
+parted,hair
+slicked down / slicked back,hair
+cropped,hair
+clipped,hair
+buzzed / buzz cut,hair
+crewcut,hair
+bob,hair
+mullet,hair
+curly,hair
+bushy,hair
+frizzy,hair
+wavy,hair
+straight,hair
+lanky,hair
+dry,hair
+oily,hair
+greasy,hair
+layers,hair
+corkscrews,hair
+spirals,hair
+ringlets,hair
+braids,hair
+widow's peak,hair
+bald,hair
+shaved,hair
+comb-over,hair
+afro,hair
+thick,hair
+luxuriant,hair
+voluminous,hair
+full,hair
+wild,hair
+untamed,hair
+bouncy,hair
+wispy,hair
+fine,hair
+thinning,hair
+black,hair colour
+blue-black,hair colour
+jet black,hair colour
+raven,hair colour
+ebony,hair colour
+inky black,hair colour
+midnight,hair colour
+sable,hair colour
+salt and pepper,hair colour
+silver / silver gray,hair colour
+charcoal gray,hair colour
+steel gray,hair colour
+white,hair colour
+snow-white,hair colour
+brown,hair colour
+brunette,hair colour
+chocolate brown,hair colour
+coffee brown,hair colour
+ash brown,hair colour
+brown sugar,hair colour
+nut brown,hair colour
+caramel,hair colour
+tawny brown,hair colour
+toffee brown,hair colour
+red,hair colour
+ginger,hair colour
+auburn,hair colour
+Titian-haired,hair colour
+copper,hair colour
+strawberry blonde,hair colour
+butterscotch,hair colour
+honey,hair colour
+wheat,hair colour
+blonde,hair colour
+golden,hair colour
+sandy blond,hair colour
+flaxen,hair colour
+fair-haired,hair colour
+bleached,hair colour
+platinum,hair colour
+tall,body type
+average height,body type
+short,body type
+petite,body type
+tiny,body type
+compact,body type
+big,body type
+large,body type
+burly,body type
+beefy,body type
+bulky,body type
+brawny,body type
+barrel-chested,body type
+heavy / heavy-set,body type
+fat,body type
+overweight,body type
+obese,body type
+flabby,body type
+chunky,body type
+chubby,body type
+pudgy,body type
+pot-bellied,body type
+portly,body type
+thick,body type
+stout,body type
+lush,body type
+plush,body type
+full-figured,body type
+ample,body type
+rounded,body type
+generous,body type
+voluptuous,body type
+curvy,body type
+hourglass,body type
+plump,body type
+leggy / long-legged,body type
+gangling,body type
+lanky,body type
+coltish,body type
+lissome,body type
+willowy,body type
+lithe,body type
+lean,body type
+slim,body type
+slender,body type
+trim,body type
+thin,body type
+skinny,body type
+emaciated,body type
+gaunt,body type
+bony,body type
+spare,body type
+solid,body type
+stocky,body type
+wiry,body type
+rangy,body type
+sinewy,body type
+stringy,body type
+ropy,body type
+sturdy,body type
+strapping,body type
+powerful,body type
+hulking,body type
+fit,body type
+athletic,body type
+toned,body type
+built,body type
+muscular,body type
+chiseled,body type
+taut,body type
+ripped,body type
+Herculean,body type
+broad-shouldered,body type
+sloping shoulders,body type
+bowlegged,body type
+delicate,hands
+small,hands
+large,hands
+square,hands
+sturdy,hands
+strong,hands
+smooth,hands
+rough,hands
+calloused,hands
+elegant,hands
+plump,hands
+manicured,hands
+stubby fingers,hands
+long fingers,hands
+ragged nails,hands
+grimy fingernails,hands
+ink-stained,hands

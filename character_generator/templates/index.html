@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Monster of the Week Bystander Generator</title>
+        <style>
+            body {
+                font-family: Helvetica;
+            }
+            #character {
+                border: 0.5em solid black;
+                display: inline-block;
+                text-align: left;
+                padding: 1em;
+            }
+
+            .outer {
+                text-align: center;
+            }
+
+            button {
+                margin: 0.5em;
+            }
+
+            h1 {
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>MotW Bystander Generator</h1>
+        <div class="outer">
+            <div id="character">
+                {% include 'roll20.html' %}
+            </div>
+            <div>
+                <button id="copy">copy to clipboard</button>
+            </div>
+        </div>
+        <script>
+            let container = document.getElementById("character");
+            document.getElementById('copy').addEventListener('click', () => {
+                window.getSelection().removeAllRanges()
+                var range = document.createRange()
+                range.setStart(container.children[0], 0);
+                range.setEnd(container.children[container.children.length-1], 1);
+                window.getSelection().addRange(range)
+                document.execCommand('copy');
+                window.getSelection().removeAllRanges()
+            });
+        </script>
+    </body>
+</html>

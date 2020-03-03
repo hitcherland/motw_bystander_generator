@@ -1,0 +1,5 @@
+bin/*
+lib/*
+lib64
+pyvenv.cfg
+character_generator/__pycache__/*

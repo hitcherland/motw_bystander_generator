@@ -1,0 +1,10 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<p><b>Name:</b> {{name}}</p>
+<p><b>Type:</b> {{type}} ({{motivation}})</p>
+<p><b>Harm Capacity:</b> 7</p>
+<p><b>Description:</b> {{', '.join(traits)}}</p>
+<p><b>Characteristics:</b> </p>
+{% for key, value in characteristics.items() | sort %}
+<p>&nbsp;&nbsp; <b>{{key.title()}}</b>: {{value}}</p>
+{% endfor %}
+<p><b>More: </b></p>
